@@ -1,3 +1,1 @@
-- 👋 Merhaba ben, dotPEEKs yani Alperen
-- 👀 Hobi olarak yazılım ve başlangıç seviyesi olarak siber güvenlik ile uğraşıyorum ...
-- Programlama dilleri olarakta python ve bash dillerine hakimim
+
